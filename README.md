@@ -11,6 +11,10 @@ A modern Android news app built with Jetpack Compose and NewsAPI.org integration
   <img src="app/src/main/res/drawable/pic_5.jpg" width="30%" alt="Detail Screen">
 </p>
 
+**DEMO**
+
+![NewsShots Demo](app/src/main/res/drawable/Demo.gif)
+
 ## Features ✨
 
 - 🗞️ Clean news feed with multiple categories
@@ -64,13 +68,13 @@ A modern Android news app built with Jetpack Compose and NewsAPI.org integration
        ```
    5. Open a Pull Request
 
-## 📄 License
+## License 📄
 
 This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE) file for details.  
 
 ---
 
-## 📣 Contact & Support
+## Contact & Support 📣
 
 🔹 **Created by** [Karan](https://github.com/mrkaran007)  
 🔹 **GitHub Repository:** [NewsShots](https://github.com/mrkaran007/NewsApp.git)  
