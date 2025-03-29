@@ -35,7 +35,7 @@ A modern Android news app built with Jetpack Compose and NewsAPI.org integration
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/mrkaran007/NewsApp.git
+   git clone https://github.com/mrkaran007/NewsShots.git
    ```
 2. **Get API KEY**
    - Register at [NewsAPI.org](https://newsapi.org/)
@@ -100,7 +100,7 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE)
 ## Contact & Support 📣
 
 🔹 **Created by** [Karan](https://github.com/mrkaran007)  
-🔹 **GitHub Repository:** [NewsShots](https://github.com/mrkaran007/NewsApp.git)  
+🔹 **GitHub Repository:** [NewsShots](https://github.com/mrkaran007/NewsShots.git)  
 🔹 Feel free to **star ⭐ this repository** if you find it useful!  
     
    
