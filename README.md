@@ -51,6 +51,29 @@ A modern Android news app built with Jetpack Compose and NewsAPI.org integration
    ./gradlew assembleDebug
    ```
 
+## Architecture 🏛️
+
+NewsShots follows **MVVM (Model-View-ViewModel)** architecture with Clean Architecture principles:
+
+```mermaid
+graph TD
+    subgraph UI Layer
+        A[Composables] -->|Events| B[ViewModel]
+        B -->|State| A
+        A --> C[Navigation]
+    end
+    
+    subgraph Domain
+        B --> D[Repository]
+    end
+    
+    subgraph Data
+        D --> E[Retrofit]
+        E --> F[NewsAPI]
+    end
+      
+```
+
 ## Contributing 🤝
    Contributions are welcome! Please follow these steps:
    1. Fork the project
